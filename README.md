@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfadhih377" alt="mdfadhih377" /></a> </p>
 
-- 🔭 I’m currently working as a Software Developer at [GrandBiz](https://www.grandbiz.in/)
+- 🔭 I’m currently working as a Juniour Software Developer at [GrandBiz](https://www.grandbiz.in/)
 
 - 🌱 I’m currently learning **Flutter**
 
