@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/a-muhammed-madhih-b2b50a189" ><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-nazar-mohamed-fadhih-22b381146/"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" /></a>
 <a href="https://www.instagram.com/thalafadhih/" ><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="40" width="40"/></a>
 <a href="https://www.facebook.com/mohamed.fadhih.9/" ><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" height="40" width="40"/></a>
 </p>
