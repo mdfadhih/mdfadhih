@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfadhih377&label=Profile%20views&color=0e75b6&style=flat" alt="mdfadhih377" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfadhih377" alt="mdfadhih377" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfadhih" alt="mdfadhih" /></a> </p>
 
 - 🔭 Purusing Master of CyberSecurity in <a href="https://www.monash.edu/">Monash University</a>
 
