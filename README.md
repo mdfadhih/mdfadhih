@@ -8,19 +8,19 @@
 
 - 🔭 Purusing Master of CyberSecurity in <a href="https://www.monash.edu/">Monash University</a>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning Aws Cloud services, CI/CD Pipelines
 
-- 💬 Ask me about **Java, MySQL, ASP.NET, JavaScript, etc.**
+- 💬 Ask me about **Python, MySQL, HTML, CSS, JavaScript, Angular, React etc.**
 
 - 📫 How to reach me **fadhihmohamed500@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mohamed-nazar-mohamed-fadhih-22b381146/?challengeId=AQH9oQbh-usb5gAAAXkCtfPapO6FauK8Z_WIfKji_0L3z-5PWLleN4yYYpeyCFs5UEPnK67qeXFOhxmIWu7coHBiNRSBd9xEZA&submissionId=f37a19d2-9cb9-7816-ea28-86d1dc4d8505](https://www.linkedin.com/in/mohamed-nazar-mohamed-fadhih-22b381146/?challengeId=AQH9oQbh-usb5gAAAXkCtfPapO6FauK8Z_WIfKji_0L3z-5PWLleN4yYYpeyCFs5UEPnK67qeXFOhxmIWu7coHBiNRSBd9xEZA&submissionId=f37a19d2-9cb9-7816-ea28-86d1dc4d8505)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/fadhih"><a/>mohamed_fadhih 
 
 - ⚡ Fun fact **I am a tech geek with hobbies in art**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-nazar-mohamed-fadhih-22b381146/"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/fadhih"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="40" width="40" /></a>
 <a href="https://www.instagram.com/thalafadhih/" ><img align="center" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" height="40" width="40"/></a>
 <a href="https://www.facebook.com/mohamed.fadhih.9/" ><img align="center" src="https://image.flaticon.com/icons/png/512/1384/1384053.png" height="40" width="40"/></a>
 </p>
