@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/fadhih"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="40" width="40" /></a>
 <a href="https://www.instagram.com/thalafadhih/" ><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/415/non_2x/instagram-logo-instagram-icon-transparent-free-png.png" height="40" width="40"/></a>
-<a href="https://www.facebook.com/mohamed.fadhih.9/" ><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQsIl9-m-4By32X9XxqoXG9udsVko9zbilXw&s" height="40" width="40"/></a>
+<a href="https://www.facebook.com/mohamed.fadhih.9/" ><img align="center" src="https://img.freepik.com/free-psd/3d-square-with-facebook-logo_125540-1565.jpg" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
