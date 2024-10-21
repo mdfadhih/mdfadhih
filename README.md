@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **fadhihmohamed500@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/fadhih"><a/>mohamed_fadhih 
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/fadhih">mohamed_fadhih</a>
 
 - ⚡ Fun fact **I am a tech geek with hobbies in art**
 
