@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fadhih</h1>
-<h3 align="center">A passionate Software Developer with both front-end and back-end skills based in Tamil Nadu, India</h3>
+<h3 align="center">A passionate Software Developer with front-end and skills based in Tamil Nadu, India</h3>
+<h3 align="center">Master’s Graduate in Cybersecurity | Passionate About Cyber Defense & Threat Mitigation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdfadhih377&label=Profile%20views&color=0e75b6&style=flat" alt="mdfadhih377" /> </p>
 
