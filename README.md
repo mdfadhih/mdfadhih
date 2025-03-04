@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdfadhih" alt="mdfadhih" /></a> </p>
 
-- 🔭 Purusing Master of CyberSecurity in <a href="https://www.monash.edu/">Monash University</a>
+- 🔭 Completed Master of CyberSecurity in <a href="https://www.monash.edu/">Monash University</a>
 
 - 🌱 I’m currently learning Aws Cloud services, CI/CD Pipelines
 
