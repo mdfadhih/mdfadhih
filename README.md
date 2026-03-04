@@ -70,11 +70,7 @@ I combine frontend development expertise with cybersecurity knowledge, allowing 
 - Increased user engagement by **35%** through intuitive geospatial interface
 - Optimized PostgreSQL queries achieving sub-200ms response times
 
-### 📊 [Performance Dashboard](https://github.com/mdfadhih/dashboard)
-**Tech:** Next.js, TypeScript, Chart.js, REST APIs
-- Built real-time analytics dashboard with SSR for optimal performance
-- Integrated multiple APIs with error handling and retry logic
-- Achieved Lighthouse performance score of **97**
+
 
 ---
 
