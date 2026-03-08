@@ -2,8 +2,11 @@
 <h3 align="center">Frontend Software Engineer | Building Secure, High-Performance Web Applications</h3>
 <p align="center">React • Next.js • TypeScript • 3.5 Years Experience • Melbourne, Australia</p>
 
-<p align="left">
-🌐 Portfolio: https://my-portfolio-seven-tawny-79.vercel.app | 💼 LinkedIn: https://www.linkedin.com/in/fadhih | 💻 GitHub: https://github.com/mdfadhih
+<p align="center">
+🌐 Portfolio: https://my-portfolio-seven-tawny-79.vercel.app | 💼 LinkedIn: https://www.linkedin.com/in/fadhih
+</p>
+<p align="center">
+  💻 GitHub: https://github.com/mdfadhih
 </p>
 
 <p align="center">
