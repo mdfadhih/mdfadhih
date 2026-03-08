@@ -3,9 +3,7 @@
 <p align="center">React • Next.js • TypeScript • 3.5 Years Experience • Melbourne, Australia</p>
 
 <p align="center">
-🌐 Portfolio: https://yourportfolio.com <br>
-💼 LinkedIn: https://www.linkedin.com/in/fadhih <br>
-💻 GitHub: https://github.com/mdfadhih
+🌐 Portfolio: [https://yourportfolio.com](https://my-portfolio-seven-tawny-79.vercel.app/) | 💼 LinkedIn: https://www.linkedin.com/in/fadhih | 💻 GitHub: https://github.com/mdfadhih
 </p>
 
 <p align="center">
