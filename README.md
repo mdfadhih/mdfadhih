@@ -3,6 +3,12 @@
 <p align="center">React • Next.js • TypeScript • 3.5 Years Experience • Melbourne, Australia</p>
 
 <p align="center">
+🌐 Portfolio: https://yourportfolio.com <br>
+💼 LinkedIn: https://www.linkedin.com/in/fadhih <br>
+💻 GitHub: https://github.com/mdfadhih
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mdfadhih&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -70,7 +76,11 @@ I combine frontend development expertise with cybersecurity knowledge, allowing 
 - Increased user engagement by **35%** through intuitive geospatial interface
 - Optimized PostgreSQL queries achieving sub-200ms response times
 
-
+### 🛒 [EasyOrder – WhatsApp Ordering System](https://github.com/mdfadhih/easyorder)
+**Tech:** React, JavaScript, Node.js, Express
+- Built a lightweight ordering interface allowing customers to place orders directly via **WhatsApp integration**
+- Implemented dynamic product listing, shopping cart, and product image preview modal
+- Designed responsive UI optimized for mobile-first ordering workflows
 
 ---
 
