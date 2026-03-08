@@ -77,6 +77,8 @@ I combine frontend development expertise with cybersecurity knowledge, allowing 
 - Increased user engagement by **35%** through intuitive geospatial interface
 - Optimized PostgreSQL queries achieving sub-200ms response times
 
+Demo note: The live application is hosted on a free Render instance. The first request may take 30–60 seconds while the backend wakes up.
+
 ### 🛒 [EasyOrder – WhatsApp Ordering System](https://github.com/mdfadhih/easyorder)
 **Tech:** React, JavaScript, Node.js, Express
 - Built a lightweight ordering interface allowing customers to place orders directly via **WhatsApp integration**
