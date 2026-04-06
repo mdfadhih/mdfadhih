@@ -87,7 +87,7 @@ A full-stack **RAG (Retrieval-Augmented Generation)** application. Upload any PD
 
 ---
 
-### 🖼️ [Serverless Image Tagging Platform](https://github.com/mdfadhih/image-tagger)
+### 🖼️ [Serverless Image Tagging Platform](https://github.com/mdfadhih/cloud_Based_Image_Storage)
 **Tech:** React · TypeScript · AWS Lambda · S3 · API Gateway
 - Built serverless architecture reducing image processing time by **30%**
 - Implemented secure S3 upload with presigned URLs and IAM-based access control
@@ -95,7 +95,7 @@ A full-stack **RAG (Retrieval-Augmented Generation)** application. Upload any PD
 
 ---
 
-### 🔍 [Job Search Platform](https://github.com/mdfadhih/job-search)
+### 🔍 [Job Search Platform](https://github.com/mdfadhih/genderEq)
 **Tech:** React · TypeScript · Python (Flask) · PostgreSQL · Mapbox
 - Developed full-stack application with dynamic filtering and map visualization
 - Increased user engagement by **35%** through intuitive geospatial interface
