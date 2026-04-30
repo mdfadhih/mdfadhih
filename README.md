@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Fadhih</h1>
 <h3 align="center">Full Stack Developer | Building AI-Powered & Secure Web Applications</h3>
-<p align="center">React • Next.js • Node.js • TypeScript • AI/RAG • 3.5 Years Experience • Melbourne, Australia</p>
+<p align="center">React • Next.js • Node.js • TypeScript • AI/RAG • 3+ Years Experience • Melbourne, Australia</p>
 
 <p align="center">
 🌐 Portfolio: https://my-portfolio-seven-tawny-79.vercel.app | 💼 LinkedIn: https://www.linkedin.com/in/fadhih
@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer with **3.5 years of experience** building production-grade web applications using **React, Next.js, Node.js and TypeScript**. Recently expanded into **AI engineering** — building RAG pipelines, vector search systems, and LLM-powered applications.
+Full Stack Developer with **3+ years of experience** building production-grade web applications using **React, Next.js, Node.js and TypeScript**. Recently expanded into **AI engineering** — building RAG pipelines, vector search systems, and LLM-powered applications.
 
 - 🤖 **Built DocuChat** — a full-stack RAG app with Gemini AI, vector embeddings and streaming responses
 - 🎯 **Improved application performance by 40%** through lazy loading, code splitting, and Core Web Vitals optimization
